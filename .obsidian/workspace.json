@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Software Engineering 1/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Introduction"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Assurance and Security/Topic 1.md",
+                "file": "Software Engineering 1/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic 1"
+              "title": "Introduction"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,15 +225,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "355fc94829d29e7f",
+  "active": "16f789c1da3ad9b6",
   "lastOpenFiles": [
+    "Software Engineering 1/Quizzes/Introduction Practice Quiz.md",
+    "Information Assurance and Security/Topic 1.md",
     "Information Assurance and Security/Information Assurance and Security.md",
     "Software Engineering 1/Introduction.md",
-    "Index.md",
+    "Software Engineering 1/Quizzes",
     "Software Engineering 1/Software Engineering 1.md",
+    "Index.md",
     "Applications Development and Emerging Technology/Applications Development and Emerging Technology.md",
     "Software Engineering 1",
-    "Information Assurance and Security/Topic 1.md",
     "Applications Development and Emerging Technology",
     "Information Assurance and Security/Dashboard.md",
     "Information Assurance and Security",
