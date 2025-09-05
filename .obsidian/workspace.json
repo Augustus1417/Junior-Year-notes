@@ -4,63 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "7c0e814e0319bb0a",
+        "id": "8588b31693aa4046",
         "type": "tabs",
         "children": [
           {
-            "id": "16f789c1da3ad9b6",
+            "id": "c922f2af6a401dad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering 1/Introduction.md",
-                "mode": "source",
+                "file": "Applications Development and Emerging Technology/Chap1 and 2.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Chap1 and 2"
             }
           },
           {
-            "id": "903a4842bc470f09",
+            "id": "2f6d4f43153290d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Assurance and Security/Information Assurance and Security.md",
+                "file": "Applications Development and Emerging Technology/Application Programming Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information Assurance and Security"
+              "title": "Application Programming Interface"
             }
           },
           {
-            "id": "f80aaca254391209",
+            "id": "06e4461e8d5465f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering 1/Software Engineering 1.md",
+                "file": "Applications Development and Emerging Technology/Flutter & React Native.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Engineering 1"
+              "title": "Flutter & React Native"
             }
           },
           {
-            "id": "355fc94829d29e7f",
+            "id": "e883c5c1cde72a64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering 1/Introduction.md",
+                "file": "Applications Development and Emerging Technology/Quizzes/Practice Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Practice Test"
             }
           }
         ]
@@ -119,11 +119,11 @@
         ]
       },
       {
-        "id": "03d0699933fa66b5",
+        "id": "756661f17a67f6da",
         "type": "tabs",
         "children": [
           {
-            "id": "58c1b3eb14eb35a5",
+            "id": "7a93820fc7c4edd6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ec698991cf4f0d4d",
@@ -152,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Applications Development and Emerging Technology/Chap1 and 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chap1 and 2"
             }
           },
           {
@@ -218,23 +220,29 @@
     "hiddenItems": {
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "16f789c1da3ad9b6",
+  "active": "c922f2af6a401dad",
   "lastOpenFiles": [
-    "Software Engineering 1/Quizzes/Introduction Practice Quiz.md",
-    "Software Engineering 1/Introduction.md",
-    "Information Assurance and Security/Topic 1.md",
-    "Information Assurance and Security/Information Assurance and Security.md",
-    "Software Engineering 1/Quizzes",
-    "Software Engineering 1/Software Engineering 1.md",
-    "Index.md",
     "Applications Development and Emerging Technology/Applications Development and Emerging Technology.md",
+    "Applications Development and Emerging Technology/Chap1 and 2.md",
+    "Applications Development and Emerging Technology/Application Programming Interface.md",
+    "Applications Development and Emerging Technology/Flutter & React Native.md",
+    "Applications Development and Emerging Technology/Quizzes/Practice Test.md",
+    "Applications Development and Emerging Technology/Quizzes",
+    "Software Engineering 1/Software Engineering 1.md",
+    "Software Engineering 1/Introduction.md",
+    "Software Engineering 1/Agile Software Process Model Methodologies.md",
+    "Information Assurance and Security/Information Assurance and Security.md",
+    "Software Engineering 1/Quizzes/Introduction Practice Quiz.md",
+    "Information Assurance and Security/Topic 1.md",
+    "Software Engineering 1/Quizzes",
+    "Index.md",
     "Software Engineering 1",
     "Applications Development and Emerging Technology",
     "Information Assurance and Security/Dashboard.md",
